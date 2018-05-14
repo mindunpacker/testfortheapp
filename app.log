@@ -18,3 +18,5 @@
 2018-05-14 16:19:36,539 | INFO     | 0085 | user logged in: mindunpacker
 2018-05-14 16:19:54,742 | INFO     | 0283 | updating node
 2018-05-14 16:19:55,633 | INFO     | 0170 | updating node clean.R task status: not started assigned to: not assigned
+2018-05-14 16:20:01,834 | INFO     | 0283 | updating node
+2018-05-14 16:20:02,591 | INFO     | 0170 | updating node clean.R task status: validating assigned to: not assigned
