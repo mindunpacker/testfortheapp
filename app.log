@@ -16,3 +16,5 @@
 2018-05-14 16:10:51,241 | INFO     | 0245 | user started git pull
 2018-05-14 16:10:53,722 | INFO     | 0245 | user started git pull
 2018-05-14 16:19:36,539 | INFO     | 0085 | user logged in: mindunpacker
+2018-05-14 16:19:54,742 | INFO     | 0283 | updating node
+2018-05-14 16:19:55,633 | INFO     | 0170 | updating node clean.R task status: not started assigned to: not assigned
