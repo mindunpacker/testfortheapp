@@ -1,0 +1,18 @@
+2018-05-14 12:50:55,290 | INFO     | 0085 | user logged in: yhegde
+2018-05-14 12:52:10,736 | INFO     | 0148 | logging out yhegde
+2018-05-14 12:52:29,044 | INFO     | 0148 | logging out yhegde
+2018-05-14 12:52:29,054 | INFO     | 0155 | shutdown called
+2018-05-14 12:53:41,639 | INFO     | 0207 | user started full network run
+2018-05-14 13:23:22,434 | INFO     | 0155 | shutdown called
+2018-05-14 13:59:14,669 | INFO     | 0085 | user logged in: yhegde
+2018-05-14 14:25:54,440 | INFO     | 0155 | shutdown called
+2018-05-14 14:31:52,347 | INFO     | 0085 | user logged in: yhegde
+2018-05-14 14:33:56,611 | INFO     | 0155 | shutdown called
+2018-05-14 14:34:25,646 | INFO     | 0085 | user logged in: yhegde
+2018-05-14 14:49:07,331 | INFO     | 0155 | shutdown called
+2018-05-14 14:49:21,088 | INFO     | 0085 | user logged in: yhegde
+2018-05-14 15:00:22,744 | INFO     | 0207 | user started full network run
+2018-05-14 15:27:31,390 | INFO     | 0155 | shutdown called
+2018-05-14 16:10:51,241 | INFO     | 0245 | user started git pull
+2018-05-14 16:10:53,722 | INFO     | 0245 | user started git pull
+2018-05-14 16:19:36,539 | INFO     | 0085 | user logged in: mindunpacker
