@@ -20,3 +20,24 @@
 2018-05-14 16:19:55,633 | INFO     | 0170 | updating node clean.R task status: not started assigned to: not assigned
 2018-05-14 16:20:01,834 | INFO     | 0283 | updating node
 2018-05-14 16:20:02,591 | INFO     | 0170 | updating node clean.R task status: validating assigned to: not assigned
+2018-05-14 16:25:39,938 | INFO     | 0148 | logging out mindunpacker
+2018-05-14 16:29:39,648 | INFO     | 0085 | user logged in: mindunpacker
+2018-05-14 16:39:18,085 | INFO     | 0245 | user started git pull
+2018-05-14 16:39:25,680 | INFO     | 0349 | 204
+2018-05-14 16:39:25,680 | INFO     | 0360 | base already contains the head, nothing to merge
+2018-05-14 16:39:29,948 | INFO     | 0207 | user started full network run
+2018-05-14 16:40:18,082 | INFO     | 0283 | updating node
+2018-05-14 16:40:18,217 | INFO     | 0170 | updating node clean.R task status: in progress assigned to: not assigned
+2018-05-14 16:40:23,930 | INFO     | 0283 | updating node
+2018-05-14 16:40:24,376 | INFO     | 0170 | updating node clean.R task status: validating assigned to: not assigned
+2018-05-14 16:40:29,804 | INFO     | 0283 | updating node
+2018-05-14 16:40:30,760 | INFO     | 0170 | updating node clean.R task status: completed assigned to: not assigned
+2018-05-14 16:40:36,947 | INFO     | 0283 | updating node
+2018-05-14 16:40:37,000 | INFO     | 0170 | updating node desc_stats.R task status: in progress assigned to: not assigned
+2018-05-14 16:40:41,143 | INFO     | 0283 | updating node
+2018-05-14 16:40:43,197 | INFO     | 0170 | updating node desc_stats.R task status: validating assigned to: not assigned
+2018-05-14 16:40:47,433 | INFO     | 0283 | updating node
+2018-05-14 16:40:49,759 | INFO     | 0170 | updating node desc_stats.R task status: completed assigned to: not assigned
+2018-05-15 10:10:26,033 | INFO     | 0085 | user logged in: mindunpacker
+2018-05-15 11:18:52,592 | INFO     | 0155 | shutdown called
+2018-05-15 11:19:38,074 | INFO     | 0085 | user logged in: mindunpacker
